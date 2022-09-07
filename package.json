@@ -1,0 +1,16 @@
+{
+  "name": "electron-test-multi-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": ["electron-multi-monitor"],
+  "author": "Samimcan BÖKE",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.1.1"
+  }
+}
